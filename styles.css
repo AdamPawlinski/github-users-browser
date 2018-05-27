@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+body {
+  margin: auto;
+  font-family: "Audiowide";
+  font-size: 24px;
+  width: 400px;
+  background-color: #c9c9c9;
+  display: flex;
+  flex-direction: column;
+}
+
+.searchGit {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 1px 1px grey;
+}
+
+.searchResult {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
